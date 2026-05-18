@@ -1,3 +1,3 @@
 "Driver First Name","Driver Last Name","Vehicle Type","Phone Number","Phone Number 2","Phone Number 3","Healthcare Facility Name","TA (Council) Name","District Name","Region Name","Mobile Money Number"
-"Test","Magaso","AMBULANCE","881234566","991234567","882223312","Wasambo Community Hospital","Pending Fix","Karonga","Northern","881234567"
-"Test","Magasso","AMBULANCE","928383743","838373738","984747473","Tester Clinic","Pending Fix","Nkhata Bay","Northern","837473833"
+"Test","Magaso","AMBULANCE","881234566","991234567","882223312","Wasambo Community Hospital","Unregistered Facility","Karonga","Northern","881234567"
+"Test","Magasso","AMBULANCE","928383743","838373738","984747473","Tester Clinic","Unregistered Facility","Nkhata Bay","Northern","837473833"
