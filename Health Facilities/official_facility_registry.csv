@@ -1,2 +1,3 @@
 "Healthcare Facility Name","Facility Code","Level","BEmONC / CEmONC","NCU / NICU","TA (Council)","District","Region","Country","Latitude","Longitude","Contact Name","Phone Number","Phone Number 2","Phone Number 3"
 "Wasambo Community Hospital","MOH12345","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","Yes","TA Wasambo","Karonga","Northern","Malawi","-14.9849407","34.9495445","Test Facility Incharge","987654421","987363636",""
+"Chamama Community Hospital","DE030228","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","TA Demo","Rumphi","Northern","Malawi","-11.9356443","33.6059174","Alinafe Magaso","881234567","991234567","881112223"
