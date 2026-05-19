@@ -1,3 +1,5 @@
 "name","label","region","district","facility_code","level","bemonc","ncu","latitude","longitude"
 "Wasambo Community Hospital","Wasambo Community Hospital","Northern","Karonga","MOH12345","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","Yes","-14.9849407","34.9495445"
 "Chamama Community Hospital","Chamama Community Hospital","Northern","Rumphi","DE030228","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","-11.9356443","33.6059174"
+"Chiendausiku Health Centre","Chiendausiku Health Centre","Southern","Balaka","3606","Level 2 (Health Centers and non-CEmONC Hospitals)","Non-EmONC","No","-14.9849856","34.9494911"
+"Chendausiku Health Centre","Chendausiku Health Centre","Southern","Balaka","13601","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","-14.9845217","34.9500171"
