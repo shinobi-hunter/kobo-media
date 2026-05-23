@@ -1,4 +1,5 @@
 "Healthcare Facility Name","Facility Code","Level","BEmONC / CEmONC","NCU / NICU","TA (Council)","District","Region","Country","Latitude","Longitude","Contact Name","Phone Number","Phone Number 2","Phone Number 3"
+"Chasefu Health Post","524","Level 1 (Clinics, Dispensaries, Health Posts)","Non-EmONC","No","TA Mabilabo","Mzimba South","Northern","Malawi","-12.6230761","33.7062201","Elias Mkweu","884441864","",""
 "Ehehleni Dispensary","506","Level 1 (Clinics, Dispensaries, Health Posts)","Non-EmONC","No","STA Chiputula Nhlani","Mzimba South","Northern","Malawi","-12.2034479","33.6657216","Annily Mtonga","999342102","991682008","887880209"
 "Embangweni Mission Hospital","507","Level 3 (CEmONC Facilities)","CEmONC","Yes","TA Mzukuzuku","Mzimba South","Northern","Malawi","-12.136093","33.4769993","Parfait Kileya","997163249","888576051","999609924"
 "Endindeni Health Centre","508","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","TA Chindi","Mzimba South","Northern","Malawi","-11.7582327","33.5563518","Mercy Mwambero","995195911","880572346","881868684"
@@ -38,6 +39,7 @@
 "Utale 1 Health Centre","3609","Level 1 (Clinics, Dispensaries, Health Posts)","BEmONC","Yes","TA Nkaya","Balaka","Southern","Malawi","-15.1775817","35.0641817","Raph Kalirani","991226555","899577094",""
 "Utale 2 Health Centre","3610","Level 2 (Health Centers and non-CEmONC Hospitals)","Non-EmONC","No","TA Nkaya","Balaka","Southern","Malawi","-15.1701533","35.0725083","Stephano Mphepo","995443870","",""
 "Kukalanga Health Centre","DE030228","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","TA Chimwala","Machinga","Southern","Malawi","-11.699486","33.5870361","Alinafe Magaso","881234567","",""
+"Cape Maclear Dispensary","2594","Level 1 (Clinics, Dispensaries, Health Posts)","BEmONC","No","TA Namkumba","Mangochi","Southern","Malawi","-14.0260133","34.851695","Jervis Nyambalo","994256025","","997793439"
 "Chilonga Health Centre","2541","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","TA Namkumba","Mangochi","Southern","Malawi","-14.4671608","34.8711452","Rafiq Kassim","993726699","",""
 "Chiunda Health Centre","2533","Level 1 (Clinics, Dispensaries, Health Posts)","Non-EmONC","No","TA Chiunda","Mangochi","Southern","Malawi","-14.7776715","35.4390643","Hopson Japson","888015147","990624257",""
 "Iba Health Centre","2534","Level 2 (Health Centers and non-CEmONC Hospitals)","Non-EmONC","No","TA Jalasi","Mangochi","Southern","Malawi","-14.3071711","35.3970931","Elias Kumwenda","997449434","884535894",""
