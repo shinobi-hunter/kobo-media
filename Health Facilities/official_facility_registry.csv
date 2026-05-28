@@ -1,5 +1,6 @@
 "Healthcare Facility Name","Facility Code","Level","BEmONC / CEmONC","NCU / NICU","TA (Council)","District","Region","Country","Latitude","Longitude","Contact Name","Phone Number","Phone Number 2","Phone Number 3"
 "Chasefu Health Post","524","Level 1 (Clinics, Dispensaries, Health Posts)","Non-EmONC","No","TA Mabilabo","Mzimba South","Northern","Malawi","-12.6230761","33.7062201","Elias Mkweu","884441864","",""
+"Chikangawa Health Centre","503","Level 2 (Health Centers and non-CEmONC Hospitals)","Non-EmONC","No","TA Kampingo Sibande","Mzimba South","Northern","Malawi","-11.8443009","33.8020571","Luka Moyo","995124025","884409791",""
 "Edingeni Health Centre","505","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","TA M'mbelwa","Mzimba South","Northern","Malawi","-12.0410383","33.3126107","Samuel Tsukani","999676997","",""
 "Embangweni Mission Hospital","507","Level 3 (CEmONC Facilities)","CEmONC","Yes","TA Mzukuzuku","Mzimba South","Northern","Malawi","-12.136093","33.4769993","Parfait Kileya","997163249","888576051","999609924"
 "Endindeni Health Centre","508","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","TA Chindi","Mzimba South","Northern","Malawi","-11.7582327","33.5563518","Mercy Mwambero","995195911","880572346","881868684"
