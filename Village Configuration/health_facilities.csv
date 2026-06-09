@@ -1,5 +1,6 @@
 "name","label","region","district","ta_name"
 "Kamteteka Health Centre","Kamteteka Health Centre","Northern","Mzimba North","TA M'mbelwa"
+"Luvwere Dispensary","Luvwere Dispensary","Northern","Mzimba North","TA Mtwalo"
 "Mpherembe Health Centre","Mpherembe Health Centre","Northern","Mzimba North","TA Mpherembe"
 "Mtwalo Health Centre","Mtwalo Health Centre","Northern","Mzimba North","TA Mtwalo"
 "Bulala Health Centre","Bulala Health Centre","Northern","Mzimba South","TA Chindi"
@@ -235,3 +236,4 @@
 "Thyolo District Hospital","Thyolo District Hospital","Southern","Thyolo","TA Nchilamwera"
 "Zoa Health Centre","Zoa Health Centre","Southern","Thyolo","TA Mbawera"
 "Chisi Health Centre","Chisi Health Centre","Southern","Zomba","TA Mkumbira"
+"Namasalima Health Centre","Namasalima Health Centre","Southern","Zomba","TA Kuntumanji"
