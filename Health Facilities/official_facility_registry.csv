@@ -1,4 +1,5 @@
 "Healthcare Facility Name","Facility Code","Level","BEmONC / CEmONC","NCU / NICU","TA (Council)","District","Region","Country","Latitude","Longitude","Contact Name","Phone Number","Phone Number 2","Phone Number 3"
+"Kabwafu Health Centre","720","Level 2 (Health Centers and non-CEmONC Hospitals)","Non-EmONC","No","TA Mpherembe","Mzimba North","Northern","Malawi","-11.3088518","33.5256672","Winnie Njolomole","992784001","",""
 "Bulala Health Centre","511","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","TA Chindi","Mzimba South","Northern","Malawi","-11.6782116","33.4481731","Charels Nanganitani","888342571","884577260","888352751"
 "Chikangawa Health Centre","503","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","TA Kampingo Sibande","Mzimba South","Northern","Malawi","-11.8443009","33.8020571","Luka Moyo","995124025","884409791",""
 "Edingeni Health Centre","505","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","TA M'mbelwa","Mzimba South","Northern","Malawi","-12.0410383","33.3126107","Samuel Tsukani","999676997","",""
@@ -148,6 +149,7 @@
 "Chisoka Health Centre","CSKA3127","Level 2 (Health Centers and non-CEmONC Hospitals)","CEmONC","No","TA Chimaliro","Thyolo","Southern","Malawi","-15.9415069","35.2089267","Gloria Gomani","882464909","",""
 "Kasembeleka Dispensary","160","Level 1 (Clinics, Dispensaries, Health Posts)","Non-EmONC","No","TA Khwethemule","Thyolo","Southern","Malawi","-16.1192866","35.0983131","Eric Chimwaza","888312855","",""
 "Khonjeni Health Centre","3109","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","TA Kapichi","Thyolo","Southern","Malawi","-16.0968059","35.2715062","Chimwemwe Naluso","888592926","993136724",""
+"Khwethemule Health Post","0","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","TA Khwethemule","Thyolo","Southern","Malawi","-16.2061648","35.109801","Carlorine Kamoto","881692230","998266615",""
 "Lomola Health Centre","311915","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","Yes","TA Ndalama","Thyolo","Southern","Malawi","-16.0247101","35.2896818","Marvelous Chingwanda","999475628","",""
 "Mafisi Dispensary","3132","Level 1 (Clinics, Dispensaries, Health Posts)","CEmONC","No","TA Kapichi","Thyolo","Southern","Malawi","-16.0935144","35.2420058","John Nyezelera","881756544","",""
 "Makapwa Health Centre","3110","Level 2 (Health Centers and non-CEmONC Hospitals)","CEmONC","No","TA Kapichi","Thyolo","Southern","Malawi","-16.1818213","35.2797395","Victor Zembesani","997195122","884014308",""
