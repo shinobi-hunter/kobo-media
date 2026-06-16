@@ -15,6 +15,7 @@
 "Luvwere Dispensary","MZ160736","Level 1 (Clinics, Dispensaries, Health Posts)","Non-EmONC","No","TA Mtwalo","Mzimba North","Northern","Malawi","-11.3889984","33.6729325","Rodwine Mwenelubembe","0994177273","",""
 "Luzi Health Centre","MZ160743","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","TA Jalavikuba","Mzimba North","Northern","Malawi","-10.9967219","33.9560579","Chifundo Kaira","0997990813","",""
 "Madise Health Centre","MZ161919","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","TA Mtwalo","Mzimba North","Northern","Malawi","-11.2634652","33.7798635","Wilson Nyirenda","0995145694","",""
+"Malidade Health Centre","MZ160812","Level 2 (Health Centers and non-CEmONC Hospitals)","Non-EmONC","No","TA Mpherembe","Mzimba North","Northern","Malawi","-11.2292025","33.4998759","Wighane Mwangonde","0984470891","0881099481",""
 "Manolo Health Centre","MZ160833","Level 2 (Health Centers and non-CEmONC Hospitals)","Non-EmONC","No","TA Mpherembe","Mzimba North","Northern","Malawi","-11.2507717","33.4395522","Blessings Chipasula","0993171273","0888158535",""
 "Matuli Health Centre","MZ160863","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","TA Mtwalo","Mzimba North","Northern","Malawi","-11.4851248","33.896117","Eliza Mmeto","0881082110","",""
 "Moyale Dispensary","MZ160986","Level 1 (Clinics, Dispensaries, Health Posts)","Non-EmONC","Yes","TA Kabunduli","Mzimba North","Northern","Malawi","-11.4594467","34.0377219","Dr Pemba Mwenda","0882037828","",""
@@ -265,4 +266,4 @@
 "Thondwe Dispensary","2721","Level 1 (Clinics, Dispensaries, Health Posts)","BEmONC","No","STA Mlumbe","Zomba","Southern","Malawi","-15.4848421","35.2369074","Thondwe","0882903212","",""
 "Zilindo Health Centre","2735","Level 2 (Health Centers and non-CEmONC Hospitals)","Non-EmONC","No","TA Mlumbe","Zomba","Southern","Malawi","-15.3805298","35.3012999","Chimwemwe William","0888185098","0996111055","0888304832"
 "Zomba Central Hospital","2722","Level 4 (Central Hospitals)","CEmONC","Yes","TA Chikowi","Zomba","Southern","Malawi","-15.3980617","35.3141817","Saulos Nyirenda","0999353377","0999881280",""
-"Zomba Central Prison Clinic","2730","Level 1 (Clinics, Dispensaries, Health Posts)","Non-EmONC","No","TA Mlumbe","Zomba","Southern","Malawi","-15.3963237","35.3121229","Archangel Chikadza","0888532496","0994451887","0881996485"
+"Zomba Central Prison Clinic","2730","Level 1 (Clinics, Dispensaries, Health Posts)","Non-EmONC","No","TA Mlumbe","Zomba","Southern","Malawi","-15.3963237","35.3121229","Archangel Chikadza","888532496","994451887","881996485"
