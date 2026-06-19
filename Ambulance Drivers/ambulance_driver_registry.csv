@@ -1,153 +1,71 @@
-"name","label","phone_number","vehicle_type","mobile_money_number","region","district"
-"Lovemore Mkandawire","Lovemore Mkandawire","999481311","AMBULANCE","999481311","Northern","Mzimba South"
-"Benjamin Mziya","Benjamin Mziya","999193693","AMBULANCE","999193693","Northern","Mzimba South"
-"Richman Kayange","Richman Kayange","999485620","AMBULANCE","999485620","Northern","Mzimba South"
-"Wiston Mithi","Wiston Mithi","991801557","AMBULANCE","991801557","Northern","Mzimba South"
-"Victor Nyirenda","Victor Nyirenda","984873503","AMBULANCE","984873503","Northern","Mzimba South"
-"Chisuse Kupalikuwa","Chisuse Kupalikuwa","995747470","AMBULANCE","995747470","Southern","Balaka"
-"Willard Chilowela","Willard Chilowela","993562019","AMBULANCE","993562019","Southern","Balaka"
-"Osward N'baya","Osward N'baya","992230778","AMBULANCE","992230778","Southern","Balaka"
-"Alfred Moses","Alfred Moses","992939585","AMBULANCE","995221750","Southern","Balaka"
-"James Mulemba","James Mulemba","888941479","AMBULANCE","999414279","Southern","Balaka"
-"Patrick Chikoja","Patrick Chikoja","995155569","AMBULANCE","995155569","Southern","Balaka"
-"Hope Chinkhadze","Hope Chinkhadze","992135155","AMBULANCE","883438080","Southern","Balaka"
-"Isaac Pongolani","Isaac Pongolani","992766711","AMBULANCE","992766711","Southern","Balaka"
-"Isaac Kayola","Isaac Kayola","990961600","AMBULANCE","990961600","Southern","Balaka"
-"Takondwa Mateauma","Takondwa Mateauma","887111563","AMBULANCE","983075744","Southern","Balaka"
-"Steven Chidothi","Steven Chidothi","997326631","AMBULANCE","887710857","Southern","Balaka"
-"Joseph Nekwankwa","Joseph Nekwankwa","999310672","AMBULANCE","999310672","Southern","Balaka"
-"Tchaka Msindo","Tchaka Msindo","882198281","AMBULANCE","882198281","Southern","Balaka"
-"Jana Buluhani","Jana Buluhani","884041236","AMBULANCE","994041231","Southern","Mangochi"
-"Godfrey Chapepa","Godfrey Chapepa","882123509","AMBULANCE","995456673","Southern","Mangochi"
-"Juliano Lambayi","Juliano Lambayi","884526079","AMBULANCE","999151052","Southern","Mangochi"
-"Sailesi Yahaya","Sailesi Yahaya","886132330","AMBULANCE","886132330","Southern","Mangochi"
-"Joe Mtalimanja","Joe Mtalimanja","882720957","AMBULANCE","992678376","Southern","Mangochi"
-"McMillan Chiputula","McMillan Chiputula","888575556","AMBULANCE","994105987","Southern","Mangochi"
-"Mike Malumbe","Mike Malumbe","995810102","AMBULANCE","886867513","Southern","Mangochi"
-"Elia Nyirenda","Elia Nyirenda","999157070","AMBULANCE","999157070","Northern","Mzimba South"
-"Geofly Mwaighogha","Geofly Mwaighogha","999609606","AMBULANCE","999609606","Northern","Mzimba South"
-"Albert Msiska","Albert Msiska","995086936","AMBULANCE","995086936","Northern","Mzimba South"
-"Chifundo Nkopeka","Chifundo Nkopeka","999091407","AMBULANCE","999091407","Northern","Mzimba South"
-"Wayted Kanyoko","Wayted Kanyoko","996883437","AMBULANCE","996883437","Northern","Mzimba South"
-"Moses Mkandawire","Moses Mkandawire","888380913","AMBULANCE","888380913","Northern","Mzimba South"
-"Kamzimu Gondwe","Kamzimu Gondwe","999099541","AMBULANCE","999099541","Northern","Mzimba South"
-"Senza Jere","Senza Jere","991725895","AMBULANCE","991725895","Northern","Mzimba South"
-"Thom Banda","Thom Banda","993429144","AMBULANCE","993429144","Northern","Mzimba South"
-"Rodney Zgambo","Rodney Zgambo","994166385","AMBULANCE","994166385","Northern","Mzimba South"
-"Mukhosi Jere","Mukhosi Jere","994818073","AMBULANCE","994818073","Northern","Mzimba South"
-"Zondwayo Mgomezulu","Zondwayo Mgomezulu","999509536","AMBULANCE","999509536","Northern","Mzimba South"
-"Charles Ngulube","Charles Ngulube","999930799","AMBULANCE","999930799","Northern","Mzimba South"
-"Bryan Kayira","Bryan Kayira","888152027","AMBULANCE","995118811","Northern","Mzimba South"
-"Kasusi Sambo","Kasusi Sambo","888301350","AMBULANCE","888301350","Southern","Mangochi"
-"Peter Mkusang'ombe","Peter Mkusang'ombe","888384552","AMBULANCE","996554840","Southern","Mangochi"
-"Asimenye Mwalwimba","Asimenye Mwalwimba","888611414","AMBULANCE","888611414","Southern","Mangochi"
-"Emanuel Nkhomanya","Emanuel Nkhomanya","881341197","AMBULANCE","993127748","Southern","Mangochi"
-"McDonald Tembo","McDonald Tembo","883432461","AMBULANCE","995837898","Southern","Mangochi"
-"Joseph Katolatola","Joseph Katolatola","993589464","AMBULANCE","993589464","Southern","Mangochi"
-"James Kaliati","James Kaliati","888748309","AMBULANCE","998874709","Southern","Mangochi"
-"Dave Malonda","Dave Malonda","881769866","AMBULANCE","881769866","Southern","Blantyre"
-"Chimwemwe Nkhonjera","Chimwemwe Nkhonjera","882212889","AMBULANCE","882212889","Southern","Blantyre"
-"Chisomo Muluda","Chisomo Muluda","886664860","AMBULANCE","886664860","Southern","Blantyre"
-"Doris Chimombo","Doris Chimombo","999357317","AMBULANCE","999357317","Southern","Blantyre"
-"Sungeni Zuze","Sungeni Zuze","984345366","AMBULANCE","984345366","Southern","Blantyre"
-"Harold Banda","Harold Banda","888495600","AMBULANCE","888495600","Southern","Blantyre"
-"Mike Teketeke","Mike Teketeke","888373972","AMBULANCE","888373972","Southern","Blantyre"
-"Timve Ambulasi","Timve Ambulasi","996244601","AMBULANCE","996244601","Southern","Blantyre"
-"Joyce Limpu","Joyce Limpu","993285737","AMBULANCE","993285737","Southern","Blantyre"
-"Maxmos Malota","Maxmos Malota","886596180","AMBULANCE","886596180","Southern","Blantyre"
-"John Mitomoni","John Mitomoni","881734114","AMBULANCE","881734114","Southern","Mangochi"
-"James Kapalikuwa","James Kapalikuwa","999915836","AMBULANCE","999915836","Southern","Mangochi"
-"Taimu Kenneth","Taimu Kenneth","997717816","AMBULANCE","997717816","Southern","Mangochi"
-"Brighton Munyenyembe","Brighton Munyenyembe","882280483","AMBULANCE","882280483","Southern","Mangochi"
-"Jonah Lajabu","Jonah Lajabu","881069296","AMBULANCE","881069296","Southern","Mangochi"
-"Josta Ndalama","Josta Ndalama","881282708","AMBULANCE","881282708","Southern","Mangochi"
-"Abdul Maulidi","Abdul Maulidi","886642279","AMBULANCE","886642279","Southern","Mangochi"
-"Steve Tambuli","Steve Tambuli","999253877","AMBULANCE","999253877","Southern","Mangochi"
-"Gadaffi Mkweta","Gadaffi Mkweta","999633859","AMBULANCE","999633859","Southern","Mangochi"
-"Osman Willard","Osman Willard","999694242","AMBULANCE","999694242","Southern","Mangochi"
-"James Mawonga","James Mawonga","881378094","AMBULANCE","881378094","Southern","Mangochi"
-"Julius Lirama","Julius Lirama","995159627","AMBULANCE","995159627","Southern","Mangochi"
-"Ganizan Spuni","Ganizan Spuni","880528365","AMBULANCE","880528365","Southern","Thyolo"
-"Alex Mlenga","Alex Mlenga","984853797","AMBULANCE","984853797","Southern","Thyolo"
-"Sam Naluso","Sam Naluso","888720368","AMBULANCE","888720368","Southern","Thyolo"
-"George Mbinga","George Mbinga","999079466","AMBULANCE","999079466","Southern","Thyolo"
-"Harry Moffat","Harry Moffat","880326622","AMBULANCE","993221910","Southern","Thyolo"
-"Blessings Wisky","Blessings Wisky","882370542","AMBULANCE","882370542","Southern","Thyolo"
-"Edward Mabodza","Edward Mabodza","881223641","AMBULANCE","881223641","Southern","Thyolo"
-"Evance Kapito","Evance Kapito","884481544","AMBULANCE","884481544","Southern","Thyolo"
-"Howard Chisi","Howard Chisi","888359053","AMBULANCE","888359053","Southern","Thyolo"
-"Joseph Ngonzi","Joseph Ngonzi","984151440","AMBULANCE","984151440","Southern","Thyolo"
-"Dyton Shausha","Dyton Shausha","884577017","AMBULANCE","884577017","Southern","Thyolo"
-"Stephano Sozera","Stephano Sozera","881551844","AMBULANCE","881551844","Southern","Thyolo"
-"Stanford Willard","Stanford Willard","888634883","AMBULANCE","888634883","Southern","Thyolo"
-"Kennedy Chapwa","Kennedy Chapwa","888228083","AMBULANCE","888228083","Southern","Thyolo"
-"Owen Kabwele","Owen Kabwele","995541939","AMBULANCE","995541939","Southern","Thyolo"
-"Patrick Davie","Patrick Davie","885673003","AMBULANCE","885673003","Southern","Thyolo"
-"Chancy Mongola","Chancy Mongola","899921152","AMBULANCE","899921152","Southern","Thyolo"
-"Samuel Juma","Samuel Juma","888959695","AMBULANCE","888959695","Southern","Thyolo"
-"Charity Chiphangwi","Charity Chiphangwi","985100307","AMBULANCE","985100307","Southern","Thyolo"
-"Francis Mponda","Francis Mponda","887174012","AMBULANCE","887174012","Southern","Thyolo"
-"Symon Samuel","Symon Samuel","888442995","AMBULANCE","888442995","Southern","Thyolo"
-"Erick Mandala","Erick Mandala","882664911","AMBULANCE","882664911","Southern","Thyolo"
-"Stane Msyali","Stane Msyali","999652707","AMBULANCE","999652707","Northern","Rumphi"
-"Done Gondwe","Done Gondwe","999574570","AMBULANCE","999574570","Northern","Rumphi"
-"Lonely Mhango","Lonely Mhango","995847744","AMBULANCE","995847744","Northern","Rumphi"
-"Thomas Magawa","Thomas Magawa","997194744","AMBULANCE","997194744","Northern","Rumphi"
-"Jimmy Soko","Jimmy Soko","999611015","AMBULANCE","999611015","Northern","Rumphi"
-"Bongani Nyirongo","Bongani Nyirongo","996347913","AMBULANCE","996347913","Southern","Zomba"
-"Peter Ngombingo","Peter Ngombingo","999656242","AMBULANCE","999656242","Southern","Zomba"
-"Francis Saukilenji","Francis Saukilenji","995665880","AMBULANCE","995665880","Southern","Zomba"
-"James Katunga","James Katunga","999437112","AMBULANCE","999437112","Southern","Zomba"
-"Paul Mnduluza","Paul Mnduluza","996168607","AMBULANCE","996168607","Southern","Zomba"
-"Eric Njowe","Eric Njowe","999272034","AMBULANCE","999272034","Southern","Zomba"
-"Bonface Nyalugwe","Bonface Nyalugwe","994462499","AMBULANCE","994462499","Southern","Zomba"
-"Lindani Mhango","Lindani Mhango","888222439","AMBULANCE","888222439","Southern","Zomba"
-"Faraja Manjere","Faraja Manjere","999618734","AMBULANCE","999618734","Southern","Zomba"
-"Joshua Gondwe","Joshua Gondwe","888563704","AMBULANCE","995667490","Northern","Rumphi"
-"Evison Kaonga","Evison Kaonga","888756164","AMBULANCE","998694588","Northern","Rumphi"
-"Wilfred Mwanyongo","Wilfred Mwanyongo","880630158","AMBULANCE","999741559","Northern","Rumphi"
-"Master Kalumbi","Master Kalumbi","993014484","AMBULANCE","993014484","Northern","Rumphi"
-"Flatera Moyo","Flatera Moyo","888540097","AMBULANCE","992066204","Northern","Rumphi"
-"Boniface Kumwenda","Boniface Kumwenda","888522106","AMBULANCE","995487542","Northern","Rumphi"
-"Lenard Mkandawire","Lenard Mkandawire","888123974","AMBULANCE","999383942","Northern","Rumphi"
-"Gerard Mhango","Gerard Mhango","888534460","AMBULANCE","996648024","Northern","Rumphi"
-"Enerst Mwalilino","Enerst Mwalilino","993228495","AMBULANCE","993228495","Northern","Rumphi"
-"Maxwell Mangulenje","Maxwell Mangulenje","995520035","AMBULANCE","995920035","Southern","Zomba"
-"Chimwemwe Msekadala","Chimwemwe Msekadala","996247875","AMBULANCE","996247875","Southern","Zomba"
-"Kaponda Msusa","Kaponda Msusa","994208143","AMBULANCE","994208143","Southern","Zomba"
-"Innocent Msodza","Innocent Msodza","994357007","AMBULANCE","994357007","Southern","Zomba"
-"Richard Macheso","Richard Macheso","997329930","AMBULANCE","997329930","Southern","Zomba"
-"Mike Chapola","Mike Chapola","994443311","AMBULANCE","994443311","Southern","Zomba"
-"Willy Noah","Willy Noah","985467696","AMBULANCE","985467696","Southern","Zomba"
-"Roderick Kamphinga","Roderick Kamphinga","993870015","AMBULANCE","993870015","Southern","Zomba"
-"James Ajami","James Ajami","999396828","AMBULANCE","999396828","Southern","Zomba"
-"Thoko Chapweteka","Thoko Chapweteka","993638989","AMBULANCE","993638989","Southern","Zomba"
-"Pempho Gulani","Pempho Gulani","999612526","AMBULANCE","999612526","Southern","Zomba"
-"Raphael Mbewe","Raphael Mbewe","983376588","AMBULANCE","983376588","Southern","Zomba"
-"Maxwell Matsinde","Maxwell Matsinde","994302043","AMBULANCE","994302043","Southern","Zomba"
-"Gladson Makumbi","Gladson Makumbi","995949365","AMBULANCE","995949365","Southern","Zomba"
-"Frank Maneya","Frank Maneya","993528640","AMBULANCE","993528640","Southern","Zomba"
-"Pembatone Mahanya","Pembatone Mahanya","888544759","AMBULANCE","888544759","Southern","Zomba"
-"Thomson Leonard","Thomson Leonard","888350480","AMBULANCE","888350480","Southern","Zomba"
-"James Kantwanje","James Kantwanje","884634674","AMBULANCE","995245375","Southern","Zomba"
-"Samson Chitingu","Samson Chitingu","885955555","AMBULANCE","885955555","Southern","Zomba"
-"Chikumbutso Mwantalula","Chikumbutso Mwantalula","999616603","AMBULANCE","999616603","Southern","Zomba"
-"Josephy Mahanya","Josephy Mahanya","994819554","AMBULANCE","994819554","Southern","Zomba"
-"Shaibu Mdala","Shaibu Mdala","995170595","AMBULANCE","995170595","Southern","Zomba"
-"Aubrey Kalamula","Aubrey Kalamula","880053398","AMBULANCE","880053398","Southern","Zomba"
-"Godfrey Phiri","Godfrey Phiri","995641722","AMBULANCE","995641722","Southern","Zomba"
-"Wilson Kapindula","Wilson Kapindula","888513377","AMBULANCE","888513377","Southern","Zomba"
-"Sydney Mchinjo","Sydney Mchinjo","888876974","AMBULANCE","888876974","Southern","Zomba"
-"George Chikwesele","George Chikwesele","992517098","AMBULANCE","992517098","Southern","Zomba"
-"Penjani Gowero","Penjani Gowero","984113374","AMBULANCE","984113374","Southern","Zomba"
-"Chikondi Malira","Chikondi Malira","883423218","AMBULANCE","883423218","Southern","Zomba"
-"Vincent Hara","Vincent Hara","999777981","AMBULANCE","999777981","Northern","Mzimba North"
-"Christopher Nkunika","Christopher Nkunika","881526633","AMBULANCE","881526633","Northern","Mzimba North"
-"Glyn Mlenga","Glyn Mlenga","881933478","AMBULANCE","881933478","Northern","Mzimba North"
-"Glium Mghogho","Glium Mghogho","880314444","AMBULANCE","880314444","Northern","Mzimba North"
-"Joshua Zgambo","Joshua Zgambo","994032461","AMBULANCE","994032461","Northern","Mzimba North"
-"Hastings Nkhana","Hastings Nkhana","888372193","AMBULANCE","888372193","Northern","Mzimba North"
-"Lusako Mwafulirwa","Lusako Mwafulirwa","888650750","AMBULANCE","888650750","Northern","Mzimba North"
-"Frank Gavinala","Frank Gavinala","882443319","AMBULANCE","882443319","Southern","Blantyre"
-"Paul Namakhwa","Paul Namakhwa","991241865","AMBULANCE","991241865","Southern","Blantyre"
-"Ishmael Mustafa","Ishmael Mustafa","995041004","AMBULANCE","995041004","Southern","Blantyre"
+_id,driver_first_name,driver_last_name,driver_phone_1,driver_phone_2,driver_phone_3,momo_number,district,status
+777507965,,,,,,,Mzimba South,Unique
+778144645,,,,,,,Mzimba South,Unique
+778987260,,,,,,,Balaka,Unique
+778988532,,,,,,,Balaka,Unique
+779677574,,,,,,,Balaka,Unique
+779678831,,,,,,,Balaka,Unique
+779685490,,,,,,,Mangochi,Unique
+779685493,,,,,,,Mangochi,Unique
+779685498,,,,,,,Mangochi,Unique
+779685502,,,,,,,Mangochi,Unique
+779685510,,,,,,,Mangochi,Unique
+779685514,,,,,,,Mangochi,Unique
+779703253,,,,,,,Mzimba South,Unique
+780325498,,,,,,,Mzimba South,Unique
+780552177,,,,,,,Mangochi,Unique
+782145156,,,,,,,Blantyre,Unique
+782146332,,,,,,,Blantyre,Unique
+782147498,,,,,,,Blantyre,Unique
+782151093,,,,,,,Blantyre,Unique
+782152075,,,,,,,Blantyre,Unique
+782153112,,,,,,,Blantyre,Unique
+782153634,,,,,,,Blantyre,Unique
+782154732,,,,,,,Blantyre,Unique
+782155590,,,,,,,Blantyre,Unique
+782156334,,,,,,,Blantyre,Unique
+782532054,,,,,,,Mangochi,Unique
+782532065,,,,,,,Mangochi,Unique
+782532071,,,,,,,Mangochi,Unique
+782532082,,,,,,,Mangochi,Unique
+782532087,,,,,,,Mangochi,Unique
+782532089,,,,,,,Mangochi,Unique
+782532097,,,,,,,Mangochi,Unique
+782532101,,,,,,,Mangochi,Unique
+782532106,,,,,,,Mangochi,Unique
+783326337,,,,,,,Thyolo,Unique
+783327316,,,,,,,Thyolo,Unique
+783327818,,,,,,,Thyolo,Unique
+783328072,,,,,,,Thyolo,Unique
+783328249,,,,,,,Thyolo,Unique
+783328631,,,,,,,Thyolo,Unique
+783329226,,,,,,,Thyolo,Unique
+783329708,,,,,,,Thyolo,Unique
+783330572,,,,,,,Thyolo,Unique
+783332389,,,,,,,Thyolo,Unique
+784724886,,,,,,,Rumphi,Unique
+784889760,,,,,,,Zomba,Unique
+784890754,,,,,,,Zomba,Unique
+784891596,,,,,,,Zomba,Unique
+784893925,,,,,,,Zomba,Unique
+785084145,,,,,,,Rumphi,Unique
+785087886,,,,,,,Rumphi,Unique
+785264710,,,,,,,Zomba,Unique
+785265293,,,,,,,Zomba,Unique
+785267935,,,,,,,Zomba,Unique
+785268703,,,,,,,Zomba,Unique
+785269463,,,,,,,Zomba,Unique
+785272214,,,,,,,Zomba,Unique
+785275189,,,,,,,Zomba,Unique
+785396677,,,,,,,Zomba,Unique
+785397042,,,,,,,Zomba,Unique
+785653619,,,,,,,Mzimba North,Unique
+785653624,,,,,,,Mzimba North,Unique
+785653627,,,,,,,Mzimba North,Unique
+785653630,,,,,,,Mzimba North,Unique
+785653633,,,,,,,Mzimba North,Unique
+785653636,,,,,,,Mzimba North,Unique
+785653642,,,,,,,Mzimba North,Unique
+786073872,,,,,,,Blantyre,Unique
+786075039,,,,,,,Blantyre,Unique
+786076491,,,,,,,Blantyre,Unique
