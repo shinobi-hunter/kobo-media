@@ -1,4 +1,5 @@
 "name","label","region","district","ta","facility_code","level","emonc","ncu","latitude","longitude"
+"Chitipa District Hospital","Chitipa District Hospital","Northern","Chitipa","TA Mwaulambya","CP060293","3","cemonc","yes","-9.7949817","33.4484301"
 "Chilumba Barracks Health Centre","Chilumba Barracks Health Centre","Northern","Karonga","TA Wasambo","KA215","2","non_emonc","no","-10.3898879","34.2089332"
 "Hara Dispensary","Hara Dispensary","Northern","Karonga","TA Wasambo","KA203","1","non_emonc","no","-10.4887748","34.1690693"
 "Mpata Health Centre","Mpata Health Centre","Northern","Karonga","TA Kyungu","KA209","2","bemonc","no","-9.9606606","33.8153197"
