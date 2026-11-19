@@ -1,5 +1,6 @@
 "name","label","region","district","ta","facility_code","level","emonc","ncu","latitude","longitude"
 "Chitipa District Hospital","Chitipa District Hospital","Northern","Chitipa","TA Mwaulambya","CP060293","Level 3 (CEmONC Facilities)","CEmONC","Yes","-9.7949817","33.4484301"
+"Kapenda Health Centre","Kapenda Health Centre","Northern","Chitipa","TA Mwabulambya","CP060554","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","-9.4937956","33.2492236"
 "Misuku Health Centre","Misuku Health Centre","Northern","Chitipa","TA Mwenemisuku","CP060940","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","-9.6799057","33.5205722"
 "Msumbe Health Centre","Msumbe Health Centre","Northern","Chitipa","STA Lwangwa","CP061021","Level 2 (Health Centers and non-CEmONC Hospitals)","Non-EmONC","No","-9.7513639","33.6755367"
 "Mulembe Health Centre","Mulembe Health Centre","Northern","Chitipa","STA Mbalizi","CP060967","Level 2 (Health Centers and non-CEmONC Hospitals)","Non-EmONC","No","-10.0617029","33.3779919"
