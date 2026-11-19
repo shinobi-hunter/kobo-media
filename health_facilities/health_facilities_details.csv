@@ -1,7 +1,6 @@
 "name","label","region","district","ta","facility_code","level","emonc","ncu","latitude","longitude"
 "Chambo Health Centre","Chambo Health Centre","Northern","Chitipa","STA Mbalizi","CP060143","Level 2 (Health Centers and non-CEmONC Hospitals)","Non-EmONC","No","-9.944395","33.39391"
 "Chisansu Health Centre","Chisansu Health Centre","Northern","Chitipa","TA Mwenemisuku","CP0111","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","-9.73116","33.4542933"
-"Chitipa District Hospital","Chitipa District Hospital","Northern","Chitipa","TA Mwaulambya","CP060293","Level 3 (CEmONC Facilities)","CEmONC","Yes","-9.7949817","33.4484301"
 "Kapenda Health Centre","Kapenda Health Centre","Northern","Chitipa","TA Mwabulambya","CP060554","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","-9.4937956","33.2492236"
 "Kaseye Community Hospital","Kaseye Community Hospital","Northern","Chitipa","TA Mwabulambya","CP060579","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","-9.6664896","33.3737925"
 "Mahowe Health Centre","Mahowe Health Centre","Northern","Chitipa","TA Nthengatenga","CP060781","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","-10.1834103","33.6907167"
