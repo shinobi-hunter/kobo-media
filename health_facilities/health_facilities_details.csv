@@ -1,4 +1,5 @@
 "name","label","region","district","ta","facility_code","level","emonc","ncu","latitude","longitude"
+"Chisansu Health Centre","Chisansu Health Centre","Northern","Chitipa","TA Mwenemisuku","CP0111","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","-9.73116","33.4542933"
 "Chitipa District Hospital","Chitipa District Hospital","Northern","Chitipa","TA Mwaulambya","CP060293","Level 3 (CEmONC Facilities)","CEmONC","Yes","-9.7949817","33.4484301"
 "Kapenda Health Centre","Kapenda Health Centre","Northern","Chitipa","TA Mwabulambya","CP060554","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","-9.4937956","33.2492236"
 "Kaseye Community Hospital","Kaseye Community Hospital","Northern","Chitipa","TA Mwabulambya","CP060579","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","-9.6664896","33.3737925"
@@ -18,6 +19,7 @@
 "Lupembe Health Centre","Lupembe Health Centre","Northern","Karonga","STA Mwangolera","KA0207","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","-10.0661819","33.987875"
 "Mlare Dispensary","Mlare Dispensary","Northern","Karonga","STA Mwambero","KA0218","Level 1 (Clinics, Dispensaries, Health Posts)","Non-EmONC","No","-10.1730534","34.0357611"
 "Mpata Health Centre","Mpata Health Centre","Northern","Karonga","TA Kyungu","KA0209","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","-9.9606606","33.8153197"
+"Mwenilondo Health Centre","Mwenilondo Health Centre","Northern","Karonga","STA Mwangolera","KA0220","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","-10.0047876","33.9342626"
 "Ngerenge Dispensary","Ngerenge Dispensary","Northern","Karonga","STA Kilupula","KA15183","Level 1 (Clinics, Dispensaries, Health Posts)","Non-EmONC","No","-9.81948","33.8280383"
 "Nyungwe Health Centre","Nyungwe Health Centre","Northern","Karonga","TA Mwilang'ombe","KA0211","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","-10.2847946","34.1082528"
 "Sangilo Health Centre","Sangilo Health Centre","Northern","Karonga","TA Wasambo","KA0212","Level 2 (Health Centers and non-CEmONC Hospitals)","BEmONC","No","-10.5161187","34.2134588"
